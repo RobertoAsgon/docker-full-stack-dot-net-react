@@ -5,7 +5,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css'
 import { ArticleService } from '../services/ArticleService';
 import { GetArticleParams, IArticle } from '../services/ArticleModel';
-import * as dayjs from 'dayjs'
+import dayjs from 'dayjs'
 import { Snackbar } from '@mui/material';
 import MuiAlert, { AlertProps } from '@mui/material/Alert';
 
