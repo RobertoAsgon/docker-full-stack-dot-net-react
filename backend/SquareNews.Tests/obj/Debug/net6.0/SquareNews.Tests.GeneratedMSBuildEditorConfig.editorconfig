@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SquareNews.Tests
-build_property.ProjectDir = C:\Users\rober\Documents\Innovae\square-news-app\backend\SquareNews.Tests\
+build_property.ProjectDir = c:\Users\rober\Documents\Innovae\docker-fullstack-dotnet-react\backend\SquareNews.Tests\
